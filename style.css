@@ -137,6 +137,7 @@
 .main-nav-list {
   font-size: 1.2rem;
   color: #575d61;
+  cursor: pointer;
 }
 
 .main-nav-sales {
@@ -157,6 +158,7 @@
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  cursor: pointer;
 }
 
 .main-nav-sale-text {
@@ -177,6 +179,7 @@
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
+  cursor: pointer;
 }
 
 /* .icon-main-nav-sale {
